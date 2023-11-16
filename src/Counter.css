@@ -1,0 +1,38 @@
+/* Counter.css */
+h3 {
+  text-align: left;
+  margin-left: 20px;
+}
+.counter-container {
+  text-align: center;
+  margin-top: 200px;
+  margin-left: 400px;
+  border: 2px solid rgb(226, 180, 63);
+  height: 50%;
+  width: 50%; /* Adjust the width to decrease the length of the border */
+}
+
+.counter-value {
+  font-size: 25px;
+  margin-left: 305px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  width: 16%;
+  border: 2px solid orange;
+  padding: 20px;
+}
+
+button {
+  font-size: 25px;
+  margin: 0 100px;
+  padding: 20px 80px; /* Adjust the padding for a wider button */
+  cursor: pointer;
+  color: rgb(0, 0, 0); /* Change the text color */
+  border: 2px solid orange;
+  background-color: white;
+}
+
+button:hover {
+  background-color: orange; /* Change the background color on hover */
+  color: white; /* Change the text color on hover */
+}
