@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/theinclass3/static/css/main.1b941fbb.css",
+    "main.js": "/theinclass3/static/js/main.277d1691.js",
+    "static/js/787.f5cd5acb.chunk.js": "/theinclass3/static/js/787.f5cd5acb.chunk.js",
+    "index.html": "/theinclass3/index.html",
+    "main.1b941fbb.css.map": "/theinclass3/static/css/main.1b941fbb.css.map",
+    "main.277d1691.js.map": "/theinclass3/static/js/main.277d1691.js.map",
+    "787.f5cd5acb.chunk.js.map": "/theinclass3/static/js/787.f5cd5acb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b941fbb.css",
+    "static/js/main.277d1691.js"
+  ]
+}
